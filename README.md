@@ -73,7 +73,7 @@ graph TD
     PDO --> Requests
 ```
 
-### 📂 Directory Structure
+###  Directory Structure
 
 ```bash
 BBMS/
@@ -87,9 +87,7 @@ BBMS/
 └── index.php       # High-Engagement Landing Page
 ```
 
----
-
-## 🚀 Quick Setup Guide
+##  Quick Setup Guide
 
 ### 1. Prerequisites
 *   **Web Server**: XAMPP, WAMP, or any environment running PHP 7.4+.
@@ -104,17 +102,13 @@ BBMS/
     *   Open `includes/config.php` and update the database credentials to match your local environment.
 4.  **Launch**: Navigate to `http://localhost/BBMS/` in your web browser.
 
----
-
-## 🔒 Security Implementation
+##  Security Implementation
 *   **SQLi Prevention**: 100% integration of **PDO Prepared Statements** for all database interactions.
 *   **Password Security**: Industry-standard **BCRYPT** hashing for all user credentials.
 *   **Access Control**: Robust middleware ensuring role-based permissions and session integrity.
 *   **Data Integrity**: Cascading deletes and foreign key constraints to maintain a clean database state.
 
----
-
-## 📜 Credits & Contributors
+##  Credits & Contributors
 
 Developed with a focus on impact and professional software engineering standards.
 
