@@ -5,37 +5,31 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3.svg?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
----
-
-## 🏗️ Project Overview
+##  Project Overview
 
 The **Blood Banking Management System (BBMS)** is an advanced web-based solution engineered to modernize traditional blood bank operations. By automating donor registration, inventory tracking, and blood request fulfillment, the system ensures that critical medical resources are managed with surgical precision and accessible when every second counts. 
 
-### 🎯 Core Objectives
+###  Core Objectives
 *   **Empower Donors**: Providing a seamless platform for individuals to contribute to the global blood supply.
 *   **Intelligent Inventory**: Real-time management of blood units with automated stock synchronization.
 *   **Operational Excellence**: Streamlining administrative tasks through a centralized governance dashboard.
 
----
+##  Key Features
 
-## 🌟 Key Features
-
-### 👤 User & Donor Experience
+###  User & Donor Experience
 *   **Secure Onboarding**: Multi-step registration with role-based access control (Admin vs. User).
 *   **Personalized Dashboard**: Track donation history, view impact statistics, and manage profile details.
 *   **Donation Intent**: Submit medical history and donation applications with file upload support for medical proof.
 *   **Blood Requests**: Effortless submission of emergency blood requests with urgency levels (Low to Critical).
 *   **Notification System**: Real-time updates on application status, request approvals, and critical alerts.
 
-### 🛡️ Administrative Command Center
+###  Administrative Command Center
 *   **Centralized Oversight**: Manage user accounts, donor applications, and blood requests from a single interface.
 *   **Inventory Control**: Granular tracking of blood units across all 8 major blood groups (A±, B±, AB±, O±).
 *   **Automated Workflow**: Approval-driven stock updates—approving a donation automatically increments inventory.
 *   **Reporting & Analytics**: Insightful data visualizations and activity logs for informed decision-making.
 
----
-
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -46,9 +40,7 @@ The **Blood Banking Management System (BBMS)** is an advanced web-based solution
 | **Icons** | FontAwesome 6 | Professional vector icons for enhanced UX. |
 | **Typography** | Inter (Google Fonts) | Clean, legible sans-serif for medical professional context. |
 
----
-
-## 📂 System Architecture
+##  System Architecture
 
 ```bash
 BBMS/
@@ -62,9 +54,7 @@ BBMS/
 └── index.php       # High-Engagement Landing Page
 ```
 
----
-
-## 🚀 Quick Setup Guide
+##  Quick Setup Guide
 
 ### 1. Prerequisites
 *   **Web Server**: XAMPP, WAMP, or any environment running PHP 7.4+.
@@ -79,24 +69,18 @@ BBMS/
     *   Open `includes/config.php` and update the database credentials to match your local environment.
 4.  **Launch**: Navigate to `http://localhost/BBMS/` in your web browser.
 
----
-
-## 🔒 Security Implementation
+##  Security Implementation
 *   **SQLi Prevention**: 100% integration of **PDO Prepared Statements** for all database interactions.
 *   **Password Security**: Industry-standard **BCRYPT** hashing for all user credentials.
 *   **Access Control**: Robust middleware ensuring role-based permissions and session integrity.
 *   **Data Integrity**: Cascading deletes and foreign key constraints to maintain a clean database state.
 
----
-
-## 📜 Credits & Contributors
+##  Credits & Contributors
 
 Developed with a focus on impact and professional software engineering standards.
 
 *   **Principal Developer**: Mohamed Dahir (System Architecture, Logic & UI/UX Design)
 *   **Project Visionary**: [Ahmed Abdiqadir](https://github.com/ahmettac723-ai) (Domain Expert & Requirements Gathering)
-
----
 
 <div align="center">
   <p>© 2026 <strong>BBMS</strong> - Bridging Hearts through Technology</p>
