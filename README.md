@@ -5,18 +5,15 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3.svg?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
----
-
-## 🏗️ Project Overview
+##  Project Overview
 
 The **Blood Banking Management System (BBMS)** is an advanced web-based solution engineered to modernize traditional blood bank operations. By automating donor registration, inventory tracking, and blood request fulfillment, the system ensures that critical medical resources are managed with surgical precision and accessible when every second counts. 
 
-### 🎯 Core Objectives
+###  Core Objectives
 *   **Empower Donors**: Providing a seamless platform for individuals to contribute to the global blood supply.
 *   **Intelligent Inventory**: Real-time management of blood units with automated stock synchronization.
 *   **Operational Excellence**: Streamlining administrative tasks through a centralized governance dashboard.
 
----
 
 ## 🌟 Key Features
 
