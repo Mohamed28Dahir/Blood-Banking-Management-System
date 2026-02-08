@@ -14,17 +14,16 @@ The **Blood Banking Management System (BBMS)** is an advanced web-based solution
 *   **Intelligent Inventory**: Real-time management of blood units with automated stock synchronization.
 *   **Operational Excellence**: Streamlining administrative tasks through a centralized governance dashboard.
 
+##  Key Features
 
-## 🌟 Key Features
-
-### 👤 User & Donor Experience
+###  User & Donor Experience
 *   **Secure Onboarding**: Multi-step registration with role-based access control (Admin vs. User).
 *   **Personalized Dashboard**: Track donation history, view impact statistics, and manage profile details.
 *   **Donation Intent**: Submit medical history and donation applications with file upload support for medical proof.
 *   **Blood Requests**: Effortless submission of emergency blood requests with urgency levels (Low to Critical).
 *   **Notification System**: Real-time updates on application status, request approvals, and critical alerts.
 
-### 🛡️ Administrative Command Center
+###  Administrative Command Center
 *   **Centralized Oversight**: Manage user accounts, donor applications, and blood requests from a single interface.
 *   **Inventory Control**: Granular tracking of blood units across all 8 major blood groups (A±, B±, AB±, O±).
 *   **Automated Workflow**: Approval-driven stock updates—approving a donation automatically increments inventory.
