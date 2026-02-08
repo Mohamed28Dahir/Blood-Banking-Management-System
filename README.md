@@ -29,9 +29,7 @@ The **Blood Banking Management System (BBMS)** is an advanced web-based solution
 *   **Automated Workflow**: Approval-driven stock updates—approving a donation automatically increments inventory.
 *   **Reporting & Analytics**: Insightful data visualizations and activity logs for informed decision-making.
 
----
-
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -42,9 +40,7 @@ The **Blood Banking Management System (BBMS)** is an advanced web-based solution
 | **Icons** | FontAwesome 6 | Professional vector icons for enhanced UX. |
 | **Typography** | Inter (Google Fonts) | Clean, legible sans-serif for medical professional context. |
 
----
-
-## 🏗️ System Architecture
+##  System Architecture
 
 The project follows a modern **three-tier architecture** to ensure scalability, maintainability, and security:
 
