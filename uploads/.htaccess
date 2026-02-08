@@ -1,0 +1,11 @@
+# Prevent direct access to uploaded files
+# Files can only be accessed through authorized download scripts
+
+# Deny access to all files in this directory
+Order Deny,Allow
+Deny from all
+
+# Allow only specific file types to be accessed (if needed)
+# <FilesMatch "\.(pdf|jpg|jpeg|png)$">
+#     Allow from all
+# </FilesMatch>
